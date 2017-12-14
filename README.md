@@ -1,29 +1,8 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+This Project was implemented for automatic DBMS tuning, which change DBMS configurations according to workloads.
+It is motivated from http://db.cs.cmu.edu/papers/2017/p1009-van-aken.pdf.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+However, at the time I launch this project, open code was not reliable and available.
+Thus, I implemented the DBMS tuning model.
