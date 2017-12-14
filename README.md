@@ -6,3 +6,6 @@ It is motivated from http://db.cs.cmu.edu/papers/2017/p1009-van-aken.pdf.
 
 However, at the time I launch this project, open code was not reliable and available.
 Thus, I implemented the DBMS tuning model.
+
+(In Korean)
+The .pdf file has detail explanation of this project. Thank you
